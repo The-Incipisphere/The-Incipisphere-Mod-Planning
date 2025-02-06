@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "1d0b64b164315cea",
+    "type": "split",
+    "children": [
+      {
+        "id": "018b02376a5418cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80d77fbc32b2fa52",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f718d524774db7e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5570c21c18ab233b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87e265e60c4b0f32",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "File explorer"
+            }
+          },
+          {
+            "id": "b0f9e661505b83e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "cogs",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a87d0a6451a53146",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d7723c6f9e361b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1d1bd9ac201d9e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbb6bcab2ff70b0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e3624652e21d0407",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3c100a9eab76c3ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e108aef74a4f85d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "466bda8ad41dd3ae",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "a5b3df0a2520b6f8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "80d77fbc32b2fa52",
+  "lastOpenFiles": [
+    "Scratchdocs/on the topic of standards 2025-02-05.md",
+    "Crops 'N Cogs.md",
+    "Plans/Main pack/Lore/Lore.md",
+    "Plans/Main pack/Lore/Chapter NULL.md",
+    "Plans/Main pack/Progression/3 - End Game/Ending Cutscene.md",
+    "Plans/Other specific topics/The Secondary Character.md",
+    "getgianni.com.md",
+    "Brainstorming/Brainstorming & Planning (main pack).md",
+    "Plans/Other specific topics/Multiblocks/Ending Portal.md",
+    "Plans/Other specific topics/Multiblocks.md",
+    "Plans/Main pack/Progression/1 - Early Game/Humble Beginnings.md",
+    "Plans/Other specific topics/Multiblocks/Charcoal Pile.md",
+    "Plans/Other specific topics/Multiblocks",
+    "Scratchdocs/infodump 2025-02-04.md",
+    "Plans/Main pack/Untitled.md",
+    "Plans/Main pack/Lore",
+    "Plans/Main pack/Progression/Progression.md",
+    "Scratchdocs/infodump 2025-01-25.md",
+    "Kanban.md",
+    "Plans/Main pack/Progression/Progression & Research Canvas.canvas",
+    "Plans/Main pack/Key mods to include in the pack.md",
+    "Plans/Main pack/Specific mods/Mekanism.md",
+    "Plans/Main pack/Specific mods/Pneumaticcraft.md",
+    "Plans/Main pack/Specific mods/Multiblocked2.md",
+    "Plans/Main pack/Specific mods/Gregtech.md",
+    "Plans/Main pack/Progression/1 - Early Game",
+    "Plans/Suite of Coremods/Dynamically Generated Crops.md",
+    "Plans/Main pack/Specific mods/Create mod (and addons).md",
+    "Brainstorming/Specific topics/Main pack/Progression & Research.canvas",
+    "Plans/Main pack/Progression/3 - End Game",
+    "Plans/Main pack/Themes within the pack.md",
+    "Plans/Main pack/Specific mods",
+    "Plans/Main pack/Progression",
+    "Plans/Other specific topics",
+    "Plans/Main pack",
+    "Plans/Suite of Coremods",
+    "Plans",
+    "Scratchdocs/infodump 2025-01-20.md",
+    "Brainstorming/Specific topics/Main pack/Pack Progression.canvas",
+    "Untitled.canvas",
+    "Theory, Brainstorming and overall Planning.canvas",
+    "Progression & Research.canvas",
+    "Media & Supporting assets/ResearchSystemEvents.drawio.svg",
+    "Media & Supporting assets/tfcDiscordScreenshot-FoodPreservationSpoilageTimer.png",
+    "Research Progression.canvas"
+  ]
+}
