@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"609ef81b8b6ce9c8","x":-12,"y":-117,"width":132,"height":57,"type":"text","text":"[SkaiaLib](https://github.com/The-Incipisphere/SkaiaLib)"},
+		{"id":"11d65d373ed5457c","x":-260,"y":-392,"width":150,"height":60,"type":"text","text":"Agriculture"},
+		{"id":"34b821118844fc2f","x":240,"y":-392,"width":136,"height":60,"type":"text","text":"Transport"},
+		{"id":"06e7b3044b2500cd","x":-7,"y":-300,"width":122,"height":60,"type":"text","text":"Materials"},
+		{"id":"97d618fc9755ace5","x":456,"y":-161,"width":250,"height":60,"type":"text","text":"Compat Bridge"}
+	],
+	"edges":[
+		{"id":"8ab5ddc414596cb0","fromNode":"609ef81b8b6ce9c8","fromSide":"top","toNode":"11d65d373ed5457c","toSide":"bottom"},
+		{"id":"86277667c76d7bbd","fromNode":"609ef81b8b6ce9c8","fromSide":"top","toNode":"34b821118844fc2f","toSide":"bottom"},
+		{"id":"b6f5a6cf31e1009b","fromNode":"609ef81b8b6ce9c8","fromSide":"top","toNode":"06e7b3044b2500cd","toSide":"bottom"}
+	]
+}
