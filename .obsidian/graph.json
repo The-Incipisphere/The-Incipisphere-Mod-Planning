@@ -4,35 +4,42 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Progression  ",
+      "query": "tag:#jadesAtrium  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 65280
       }
     },
     {
-      "query": "file:Planning",
+      "query": "tag:#skaiaLib  ",
       "color": {
         "a": 1,
-        "rgb": 16744703
+        "rgb": 569335
       }
     },
     {
-      "query": "tag:#mainPack  ",
+      "query": "tag:#perfUngenObj  ",
       "color": {
         "a": 1,
-        "rgb": 8454016
+        "rgb": 1940748
       }
     },
     {
-      "query": "tag:#coreMod  ",
+      "query": "tag:#parcelPyxis  ",
       "color": {
         "a": 1,
-        "rgb": 33023
+        "rgb": 15173119
+      }
+    },
+    {
+      "query": "tag:#theVeil  ",
+      "color": {
+        "a": 1,
+        "rgb": 2359362
       }
     }
   ],
@@ -46,6 +53,6 @@
   "repelStrength": 5,
   "linkStrength": 0,
   "linkDistance": 500,
-  "scale": 1.2414543899483081,
-  "close": true
+  "scale": 0.8854989543150417,
+  "close": false
 }
