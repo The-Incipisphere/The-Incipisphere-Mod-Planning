@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "tag:#perfUngenObj  ",
+      "query": "tag:#perfUngenObjs",
       "color": {
         "a": 1,
         "rgb": 1940748
@@ -54,5 +54,5 @@
   "linkStrength": 0,
   "linkDistance": 500,
   "scale": 0.8854989543150417,
-  "close": false
+  "close": true
 }

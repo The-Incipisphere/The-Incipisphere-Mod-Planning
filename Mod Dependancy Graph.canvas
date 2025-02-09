@@ -3,7 +3,7 @@
 		{"id":"609ef81b8b6ce9c8","type":"text","text":"[[SkaiaLib]]\n(Main Library)","x":-60,"y":40,"width":160,"height":80},
 		{"id":"97d618fc9755ace5","type":"text","text":"[[The Veil]]\nCompat Bridge","x":260,"y":37,"width":160,"height":83},
 		{"id":"34b821118844fc2f","type":"text","text":"[[Parcel Pyxis]]\nTransport","x":260,"y":-200,"width":160,"height":80},
-		{"id":"06e7b3044b2500cd","type":"text","text":"[[Perfectly Ungeneric Objects|PerfUngenObj]]\nMaterials","x":-60,"y":-200,"width":160,"height":80},
+		{"id":"06e7b3044b2500cd","type":"text","text":"[[Perfectly Ungeneric Objects|PerfUngenObjs]]\nMaterials","x":-60,"y":-200,"width":160,"height":80},
 		{"id":"11d65d373ed5457c","type":"text","text":"[[Jade's Atrium]]\nAgriculture","x":-380,"y":-200,"width":160,"height":80}
 	],
 	"edges":[
