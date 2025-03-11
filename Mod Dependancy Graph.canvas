@@ -1,15 +1,13 @@
 {
 	"nodes":[
-		{"id":"609ef81b8b6ce9c8","type":"text","text":"[[SkaiaLib]]\n(Main Library)","x":-60,"y":40,"width":160,"height":80},
-		{"id":"97d618fc9755ace5","type":"text","text":"[[The Veil]]\nCompat Bridge","x":260,"y":37,"width":160,"height":83},
 		{"id":"34b821118844fc2f","type":"text","text":"[[Parcel Pyxis]]\nTransport","x":260,"y":-200,"width":160,"height":80},
-		{"id":"06e7b3044b2500cd","type":"text","text":"[[Perfectly Ungeneric Objects|PerfUngenObjs]]\nMaterials","x":-60,"y":-200,"width":160,"height":80},
-		{"id":"11d65d373ed5457c","type":"text","text":"[[Jade's Atrium]]\nAgriculture","x":-380,"y":-200,"width":160,"height":80}
+		{"id":"11d65d373ed5457c","type":"text","text":"[[Jade's Atrium]]\nAgriculture","x":-380,"y":-200,"width":160,"height":80},
+		{"id":"97d618fc9755ace5","type":"text","text":"[[The Veil]]\nCompat Bridge","x":260,"y":40,"width":160,"height":83},
+		{"id":"06e7b3044b2500cd","type":"text","text":"[[Perfectly Ungeneric Objects|PerfUngenObjs]]\nMaterials & Core","x":-60,"y":43,"width":160,"height":80}
 	],
 	"edges":[
-		{"id":"8ab5ddc414596cb0","fromNode":"609ef81b8b6ce9c8","fromSide":"top","toNode":"11d65d373ed5457c","toSide":"bottom"},
-		{"id":"86277667c76d7bbd","fromNode":"609ef81b8b6ce9c8","fromSide":"top","toNode":"34b821118844fc2f","toSide":"bottom"},
-		{"id":"b6f5a6cf31e1009b","fromNode":"609ef81b8b6ce9c8","fromSide":"top","toNode":"06e7b3044b2500cd","toSide":"bottom"},
-		{"id":"bf59c30f5dfc916c","fromNode":"609ef81b8b6ce9c8","fromSide":"right","toNode":"97d618fc9755ace5","toSide":"left"}
+		{"id":"682a371dcd896114","fromNode":"06e7b3044b2500cd","fromSide":"top","toNode":"11d65d373ed5457c","toSide":"right"},
+		{"id":"3fd97ce5e3def9bd","fromNode":"06e7b3044b2500cd","fromSide":"top","toNode":"34b821118844fc2f","toSide":"left"},
+		{"id":"56e39224e99c6247","fromNode":"06e7b3044b2500cd","fromSide":"right","toNode":"97d618fc9755ace5","toSide":"left"}
 	]
 }
