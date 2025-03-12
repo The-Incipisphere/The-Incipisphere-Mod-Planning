@@ -1,9 +1,10 @@
 {
 	"nodes":[
-		{"id":"34b821118844fc2f","type":"text","text":"[[Parcel Pyxis]]\nTransport","x":260,"y":-200,"width":160,"height":80},
-		{"id":"11d65d373ed5457c","type":"text","text":"[[Jade's Atrium]]\nAgriculture","x":-380,"y":-200,"width":160,"height":80},
-		{"id":"97d618fc9755ace5","type":"text","text":"[[The Veil]]\nCompat Bridge","x":260,"y":40,"width":160,"height":83},
-		{"id":"06e7b3044b2500cd","type":"text","text":"[[Perfectly Ungeneric Objects|PerfUngenObjs]]\nMaterials & Core","x":-60,"y":43,"width":160,"height":80}
+		{"id":"7ec6b65bceddb938","x":-360,"y":-220,"width":840,"height":360,"type":"group","label":"The Medium Suite"},
+		{"id":"34b821118844fc2f","type":"text","text":"[[Parcel Pyxis]]\nTransport","x":300,"y":-200,"width":160,"height":80},
+		{"id":"11d65d373ed5457c","type":"text","text":"[[Jade's Atrium]]\nAgriculture","x":-340,"y":-200,"width":160,"height":80},
+		{"id":"97d618fc9755ace5","type":"text","text":"[[The Veil]]\nCompat Bridge","x":300,"y":40,"width":160,"height":83},
+		{"id":"06e7b3044b2500cd","type":"text","text":"[[Perfectly Ungeneric Objects|PerfUngenObjs]]\nMaterials & Core","x":-20,"y":43,"width":160,"height":80}
 	],
 	"edges":[
 		{"id":"682a371dcd896114","fromNode":"06e7b3044b2500cd","fromSide":"top","toNode":"11d65d373ed5457c","toSide":"right"},
