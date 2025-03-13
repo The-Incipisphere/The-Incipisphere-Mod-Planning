@@ -1,14 +1,16 @@
 {
 	"nodes":[
-		{"id":"7ec6b65bceddb938","x":-360,"y":-220,"width":840,"height":360,"type":"group","label":"The Medium Suite"},
-		{"id":"34b821118844fc2f","type":"text","text":"[[Parcel Pyxis]]\nTransport","x":300,"y":-200,"width":160,"height":80},
+		{"id":"7ec6b65bceddb938","type":"group","x":-360,"y":-220,"width":520,"height":580,"label":"The Medium Suite"},
 		{"id":"11d65d373ed5457c","type":"text","text":"[[Jade's Atrium]]\nAgriculture","x":-340,"y":-200,"width":160,"height":80},
-		{"id":"97d618fc9755ace5","type":"text","text":"[[The Veil]]\nCompat Bridge","x":300,"y":40,"width":160,"height":83},
-		{"id":"06e7b3044b2500cd","type":"text","text":"[[Perfectly Ungeneric Objects|PerfUngenObjs]]\nMaterials & Core","x":-20,"y":43,"width":160,"height":80}
+		{"id":"06e7b3044b2500cd","type":"text","text":"[[Perfectly Ungeneric Objects|PerfUngenObjs]]\nMaterials & Core","x":-340,"y":43,"width":160,"height":80},
+		{"id":"34b821118844fc2f","type":"text","text":"[[Parcel Pyxis]]\nTransport","x":-340,"y":260,"width":160,"height":80},
+		{"id":"97d618fc9755ace5","type":"text","text":"[[The Veil]]\nCompat Bridge","x":-20,"y":40,"width":160,"height":83}
 	],
 	"edges":[
-		{"id":"682a371dcd896114","fromNode":"06e7b3044b2500cd","fromSide":"top","toNode":"11d65d373ed5457c","toSide":"right"},
-		{"id":"3fd97ce5e3def9bd","fromNode":"06e7b3044b2500cd","fromSide":"top","toNode":"34b821118844fc2f","toSide":"left"},
-		{"id":"56e39224e99c6247","fromNode":"06e7b3044b2500cd","fromSide":"right","toNode":"97d618fc9755ace5","toSide":"left"}
+		{"id":"682a371dcd896114","fromNode":"06e7b3044b2500cd","fromSide":"top","toNode":"11d65d373ed5457c","toSide":"bottom"},
+		{"id":"3fd97ce5e3def9bd","fromNode":"06e7b3044b2500cd","fromSide":"top","toNode":"34b821118844fc2f","toSide":"top"},
+		{"id":"56e39224e99c6247","fromNode":"06e7b3044b2500cd","fromSide":"right","toNode":"97d618fc9755ace5","toSide":"left"},
+		{"id":"63ec7f3a07cf3e89","fromNode":"34b821118844fc2f","fromSide":"right","toNode":"97d618fc9755ace5","toSide":"bottom"},
+		{"id":"6a3e865a51556ed6","fromNode":"11d65d373ed5457c","fromSide":"right","toNode":"97d618fc9755ace5","toSide":"top"}
 	]
 }
