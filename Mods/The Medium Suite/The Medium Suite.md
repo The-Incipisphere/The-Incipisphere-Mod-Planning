@@ -1,3 +1,1 @@
-A group of mods for packdevs to make their lives easier.
-
-Highly customisable.
+A group of mods for packdevs and moddevs to make their lives easier. Heavily inclined towards tech packs, but can be used for basically anything.
