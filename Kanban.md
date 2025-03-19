@@ -10,6 +10,7 @@ kanban-plugin: board
 
 ## TODO
 
+- [ ] #perfUngenObjs Make a Proper API for Perfectly Ungeneric Objects
 
 
 ## DOING (5)
