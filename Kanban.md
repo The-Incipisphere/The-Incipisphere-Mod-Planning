@@ -7,11 +7,11 @@ kanban-plugin: board
 ## NOT IN SCOPE
 
 - [ ] #perfUngenObjs Implement Dynamic Data/Resource pack generation
+- [ ] #perfUngenObjs Make a Proper API for Perfectly Ungeneric Objects
 
 
 ## TODO
 
-- [ ] #perfUngenObjs Make a Proper API for Perfectly Ungeneric Objects
 
 
 ## DOING (5)
