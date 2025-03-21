@@ -7,11 +7,12 @@ Material definitions are (currently) split into three inner classes within [`Mat
 
 This inner class stores key information about a material, such as its ID (in `ResourceLocation` format), an `IntList` of colours, its assigned texture set, and whether or not additional colours have already been assigned to the aforementioned `IntList`.
 ## Components
-> Inner class name: **`MaterialComponents`**
+> Inner enum name: **`MaterialComponents`**
 
 A component is basically a representation of a physical form that a material can take.
 Each material can have whatever combination of components that one desires, and the mod will generate items/blocks/fluids accordingly.
 ### List of current Components
-- **`INGOT`**: 
+- **`INGOT`**: https://en.wikipedia.org/wiki/Ingot - (Mutually exclusive with `**GEM**`)
+- **`NUGGET`**
 ## Flags
 > Inner class name: **`MaterialFlags`**
