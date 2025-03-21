@@ -12,7 +12,14 @@ This inner class stores key information about a material, such as its ID (in `Re
 A component is basically a representation of a physical form that a material can take.
 Each material can have whatever combination of components that one desires, and the mod will generate items/blocks/fluids accordingly.
 ### List of current Components
-- **`INGOT`**: https://en.wikipedia.org/wiki/Ingot - (Mutually exclusive with `**GEM**`)
-- **`NUGGET`**
+- **`INGOT`**: https://en.wikipedia.org/wiki/Ingot - (Mutually exclusive with **`GEM`**)
+- **`NUGGET`**:
+- **`STORAGE_BLOCK`**:
+- **`DUST`**:
+- **`GEM`**: (Mutually exclusive with **`INGOT`**)
 ## Flags
 > Inner class name: **`MaterialFlags`**
+
+allan please add details about flags
+### List of current Flags
+- **`HAS_COMPRESSION_RECIPES`**
