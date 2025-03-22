@@ -13,8 +13,8 @@ A component is basically a representation of a physical form that a material can
 Each material can have whatever combination of components that one desires, and the mod will generate items/blocks/fluids accordingly.
 ### List of current Components
 - **`INGOT`**: https://en.wikipedia.org/wiki/Ingot - (Mutually exclusive with **`GEM`**)
-- **`NUGGET`**:
-- **`STORAGE_BLOCK`**:
+- **`NUGGET`**: A small fragment of metal. Typically, 9 nuggets make 1 ingot.
+- **`STORAGE_BLOCK`**: A large block of
 - **`DUST`**:
 - **`GEM`**: (Mutually exclusive with **`INGOT`**)
 ## Flags
