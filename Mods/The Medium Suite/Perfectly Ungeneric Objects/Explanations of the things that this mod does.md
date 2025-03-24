@@ -14,8 +14,8 @@ Each material can have whatever combination of components that one desires, and 
 ### List of current Components
 - **`INGOT`**: https://en.wikipedia.org/wiki/Ingot - (Mutually exclusive with **`GEM`**)
 - **`NUGGET`**: A small fragment of metal. Typically, 9 nuggets make 1 ingot.
-- **`STORAGE_BLOCK`**: A large block of
-- **`DUST`**:
+- **`STORAGE_BLOCK`**: A large block of metal. Typically, 9 ingots make 1 block.
+- **`DUST`**: A powdered form of a substance
 - **`GEM`**: (Mutually exclusive with **`INGOT`**)
 ## Flags
 > Inner class name: **`MaterialFlags`**
