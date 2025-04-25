@@ -1,1 +1,1 @@
->*Ocho vidas, desperdiciadas tan descuidadamente.*
+>*Ocho vidas desperdiciadas sin consideración. Don't waste the last one.*
